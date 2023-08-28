@@ -1,2 +1,2 @@
 # Real-Estate-Responsive-Website
-![image](https://github.com/VedantKharkar97/Diabetes-Prediction-Using-SVM-KNN/blob/master/static/images/home_page.png)
+![image](https://github.com/VedantKharkar97/Real-Estate-Responsive-Website/blob/master/assets/output.png)
